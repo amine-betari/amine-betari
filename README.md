@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Amine 👋
+🔭 I’m Developer Back End (PHP/Symfony)
 <!--
 **amine-betari/amine-betari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
