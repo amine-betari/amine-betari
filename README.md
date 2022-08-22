@@ -1,4 +1,5 @@
-### Hi there, I'am <a href='https://www.linkedin.com/in/amine-betari/' target='_blank'><img src='https://img.shields.io/badge/BETARI%20-Amine-green' alt='BETARI  Amine'/></a>. 🔭 I’m Developer Back End (PHP/Symfony/Ibexa). I’m currently working on AlmaviaCX. 
+### Hi there, I'am <a href='https://www.linkedin.com/in/amine-betari/' target='_blank'><img src='https://img.shields.io/badge/BETARI%20-Amine-green' alt='BETARI  Amine'/></a>. 
+🔭 I’m Developer Back End (PHP/Symfony/Ibexa). I’m currently working on AlmaviaCX. 
 
 My favorite technologies are PHP and Symfony and Ibexa 
 <!--
