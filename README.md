@@ -1,12 +1,12 @@
 ### Hi there, I'am <a href='https://www.linkedin.com/in/amine-betari/' target='_blank'><img src='https://img.shields.io/badge/BETARI%20-Amine-green' alt='BETARI  Amine'/></a>. 
-🔭 I’m Developer Back End (PHP/Symfony/Ibexa). I’m currently working on AlmaviaCX. 
-
-My favorite technologies are PHP, Symfony and Ibexa 
+🔭 I’m Developer Back End (PHP/Symfony/Ibexa). I’m currently working on Inforca.
+I live in France 🇫🇷, and I come from Morocco 🇲🇦.
+My favorite technologies are <a href='https://www.php.net' target='_blank'><img src='https://img.shields.io/badge/PHP-black?style=flat-square&logo=php' alt='PHP'/></a>, <a href='https://symfony.com' target='_blank'><img src='https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony' alt='Symfony'/></a> and <a href='https://www.ibexa.co' target='_blank'><img src='https://img.shields.io/badge/Ibexa-blue?style=flat-square&logo=ibexa' alt='Ibexa'/></a> 
 
 
 <details>
   <summary>🎼 My Symfony Badges</summary><br />
-          <a href="https://connect.symfony.com/badge/107/eleven-year-membership"><img src="https://connect.symfony.com/uploads/badges/f7c7d054-7472-4898-a9c8-67b0026a674b/4184d699-d283-4a75-82ed-32a3bbe90607.png" alt="Eleven-year membership badge" width="120" height="120"></a>
+          <a href="https://connect.symfony.com/badge/107/eleven-year-membership"><img src="https://connect.symfony.com/uploads/badges/f7c7d054-7472-4898-a9c8-67b0026a674b/4184d699-d283-4a75-82ed-32a3bbe90607.png" alt="Eleven-year membership badge" width="100"></a>
           <a href="https://connect.symfony.com/badge/73/ten-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/cb6edcd1-d790-4478-960f-44933774603f/3f4a0705-1b64-48e8-b5f2-070029bf6e08.png" alt="Ten-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/72/nine-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/9dd993a7-15e3-41bc-abf2-96644a7b5307/e6450cc5-fb6a-4812-9b51-7555f61672e2.png" alt="Nine-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/122/symfony-4-certified-developer-advanced"><img width="100" src="https://connect.symfony.com/uploads/badges/eaedf0db-c39b-42a7-aee8-a7e9e10477d0/2056d42b-8611-411d-af90-e0ecb8429fa8.png" alt="Symfony 4 Certified Developer (Advanced) badge"></a>
