@@ -1,8 +1,63 @@
-### Hi there, I'am <a href='https://www.linkedin.com/in/amine-betari/' target='_blank'><img src='https://img.shields.io/badge/BETARI%20-Amine-green' alt='BETARI  Amine'/></a>. 
-🔭 I’m Developer Back End (PHP/Symfony/Ibexa). I’m currently working on Inforca.
-I live in France 🇫🇷, and I come from Morocco 🇲🇦.
-My favorite technologies are <a href='https://www.php.net' target='_blank'><img src='https://img.shields.io/badge/PHP-black?style=flat-square&logo=php' alt='PHP'/></a>, <a href='https://symfony.com' target='_blank'><img src='https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony' alt='Symfony'/></a> and <a href='https://www.ibexa.co' target='_blank'><img src='https://img.shields.io/badge/Ibexa-blue?style=flat-square&logo=ibexa' alt='Ibexa'/></a> 
+### Hi all, I'am <a href='https://www.linkedin.com/in/amine-betari/' target='_blank'><img src='https://img.shields.io/badge/BETARI%20-Amine-green' alt='BETARI  Amine'/></a>. 
 
+I’m Developer Back End (PHP/Symfony/Ibexa). I’m currently working on Inforca.
+
+<p>I live in France 🇫🇷, and I come from Morocco 🇲🇦.</p>
+
+My favorite technologies are
+    <a href='https://www.php.net' target='_blank'>
+    <img src='https://img.shields.io/badge/PHP-black?style=flat-square&logo=php' alt='PHP'/>
+    </a>,
+    <a href='https://symfony.com' target='_blank'>
+    <img src='https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony' alt='Symfony'/>
+    </a>, and
+    <a href='https://www.ibexa.co' target='_blank'>
+    <img src='https://img.shields.io/badge/Ibexa-blue?style=flat-square' alt='Ibexa'/>
+    </a>.
+<p> I often push projects with 
+    <a href='https://platorm.sh' target='_blank'>
+        <img src='https://img.shields.io/badge/Platform.sh-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PGRlZnM+PHN0eWxlPi5iY2FjNjk1YS1hMGE0LTQxMDAtODRmZC02MWVjYzQyMTA5MWN7ZmlsbDojMGEwYTBhO30uZmM4ZGQ0MjItZmIwMi00ODIyLWE1N2UtYzIwYzhiNWVlZjdje2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPlBsYXRmb3Jtc2hfaWNvbl93aGl0ZTwvdGl0bGU+PGcgaWQ9ImI1ZjliYjQ5LTE2MTQtNGIyMi04YzA0LWY1MTgyYzE4MDNmNSIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iYjJhMjg1NjAtNWU0OC00NDM1LWFjY2QtZTE0OWI0Zjk2Y2MwIiBkYXRhLW5hbWU9IkxheWVyIDEiPjxyZWN0IGNsYXNzPSJiY2FjNjk1YS1hMGE0LTQxMDAtODRmZC02MWVjYzQyMTA5MWMiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIvPjxyZWN0IGNsYXNzPSJmYzhkZDQyMi1mYjAyLTQ4MjItYTU3ZS1jMjBjOGI1ZWVmN2MiIHg9IjEwLjczIiB5PSIxMC43MiIgd2lkdGg9IjI4LjU1IiBoZWlnaHQ9IjExLjM1Ii8+PHJlY3QgY2xhc3M9ImZjOGRkNDIyLWZiMDItNDgyMi1hNTdlLWMyMGM4YjVlZWY3YyIgeD0iMTAuNzMiIHk9IjM1LjQyIiB3aWR0aD0iMjguNTUiIGhlaWdodD0iMy44NiIvPjxyZWN0IGNsYXNzPSJmYzhkZDQyMi1mYjAyLTQ4MjItYTU3ZS1jMjBjOGI1ZWVmN2MiIHg9IjEwLjczIiB5PSIyNS43NCIgd2lkdGg9IjI4LjU1IiBoZWlnaHQ9IjUuODIiLz48L2c+PC9nPjwvc3ZnPg==' alt='Platform.sh'/>
+    </a>
+</p>
+<p> And for local developments that's of course 
+    <a href='https://docker.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker' alt='Docker'/>
+    </a>.
+</p>
+
+<p>My toolbox is
+    <a href='https://www.mongodb.com/' target='_blank'><img src='https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb' alt='MongoDB'/></a>,
+    <a href='https://www.mysql.com' target='_blank'><img src='https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql' alt='MySQL'/></a>, 
+    <a href='https://redislabs.com' target='_blank'><img src='https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis' alt='Redis'/></a>, 
+    <a href='https://lucene.apache.org/solr' target='_blank'><img src='https://img.shields.io/badge/Solr-black?style=flat-square&logo=apache-solr' alt='Solr'/></a> and <a href='https://varnish-cache.org' target='_blank'><img src='https://img.shields.io/badge/Varnish-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAA6gAwAEAAAAAQAAAA4AAAAATspU+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KTMInWQAAAgJJREFUKBV1UjFrFEEUfu/tZkl2T6LeXsR0gtichZJCRBCES6dYmRMtBAXBUt2kshiwsAj+ABHSKKjJL1ivOAXBQiXVKVrZKHibQ5LLmtxmd8Y377JGDn0wb2bezPfNN+89hP+ZMQiIxh6H8/F5BDqOGla7D2djG0Pr/mE2LqDafOs5TUw2jc6ZxwG9vbGULM7eIAEpRWBfKE21HbsMF+KrFBxs6l/rOzBIMwYV5E9er0atiwTK8FBaZFkCa9/3CQkaPG3yARg0TIseBwtT5EBkTrmgUB+K4uBH5e2WEPA1mH4lMgHoE46NAw42c8Za7ZpcD0xGnym8G89odL6G6ZkY1LLH3zbQSQQ4FRx+rDd776hS88HzPaqE4zr9+Trx3zwhdJwT7tSREMltVNcnaiLVOpbdUfUsCNyzJl1b0Fn6tOiv3U4CtzFUdmnZCaOXd8IoviAgeZVXHAfVdiU26ph0L5Ojh+XeEtRrOEzYB4BHN21dbAkM1tXHsQ50NahzOdftHmfhGn911XPp1rcHjZ6UarcZSj6WgqYDbQGFUesKVar3zdYGYHDgaNbv2iQ1YW7FlqkoQXberdsXkUyEM8B1MsVOj7Npe+ekXF6ZY9BfDfIHOH1M0q9BP9PbfSB/f5WHxSwJUJI07FvZs9tLjnQQaltXbo3L3OHvk8XGi/Li6Pwb353L6BLKBBsAAAAASUVORK5CYII=' alt='Varnish'/></a>.</p>
+
+For CI, it's 
+    <a href='https://git-scm.com' target='_blank'>
+        <img src='https://img.shields.io/badge/Git-black?style=flat-square&logo=git' alt='Git'/>
+    </a>
+    <ul>
+        <li>
+            <a href='https://github.com' target='_blank'>
+                <img src='https://img.shields.io/badge/Github-black?style=flat-square&logo=github' alt='Github'/>
+            </a>
+            <a href='https://github.com/features/actions' target='_blank'>
+                <img src='https://img.shields.io/badge/Github Actions-black?style=flat-square&logo=github-actions' alt='Github Actions'/>
+            </a>
+        </li>
+        <li>
+            <a href='https://gitlab.com' target='_blank'>
+                <img src='https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab' alt='Gitlab'/>
+            </a>
+            <a href='https://docs.gitlab.com/ee/ci/' target='_blank'>
+                <img src='https://img.shields.io/badge/Gitlab CI-black?style=flat-square&logo=gitlab' alt='Gitlab CI'/>
+            </a>
+        </li>
+        <li>
+            <a href='https://travis-ci.com' target='_blank'>
+                <img src='https://img.shields.io/badge/Travis-black?style=flat-square&logo=travis' alt='Travis'/>
+            </a>  
+        </li>
+    </ul>
 
 <details>
   <summary>🎼 My Symfony Badges</summary><br />
